@@ -1,0 +1,29 @@
+.form-centralizado {
+    margin: 0 auto;
+    width: 45%;
+  }
+
+ #titulo {
+        text-align: center;
+        font-size: 30px;
+        color: gray;
+        margin-bottom: 40px;
+    }
+
+  
+
+.espacamento {
+    margin-top: 20px;
+}
+
+#grad {
+    background-image: linear-gradient(to right, #3e7fdf , gray);
+  }
+
+ .style-form {
+    padding: 40px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 10.2);
+    margin-top: 35px;
+}
