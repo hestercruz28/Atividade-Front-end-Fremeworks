@@ -3,7 +3,7 @@
 Atividade realizada para o consumo de API IBGE
 
 
-## Requesitos da Atividade
+## Requisitos da Atividade
 
 
 Implemente as seguintes funcionalidades com Javascript:
