@@ -1,4 +1,4 @@
-# Atividade-Frontend-Frameworks
+# Atividade-Front-end-Frameworks
 
 Atividade realizada para o consumo de API IBGE
 
